@@ -1,0 +1,8 @@
+Le code source de ce projet d'enseignement du lancer de rayon
+a été développé au sein du Laboratoire MSI, devenu XLIM / ASALI aujourd'hui.
+ 
+Il n'est pas "Open Source".
+
+Il ne doit pas être diffusé en dehors des enseignements pour lesquelles il a été prévu.
+
+Ce court texte doit systématiquement accompagner le code.
